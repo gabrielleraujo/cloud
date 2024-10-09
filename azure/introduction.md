@@ -129,3 +129,52 @@ os provedores de serviços em nuvem operam em um modelo baseado no consumo, o qu
 * Descrever o modelo baseado no consumo.  
 * Comparar os modelos de preços de nuvem.
 
+## Tipos de serviço de Nuvem na Azure
+
+### IaaS - Interface como serviço
+
+- Maior gestão.
+- O serviço de nuvem mais flexível.
+- Você configura e gerencia o hardware para seu aplicativo.
+
+Se preocupa com servidores e armazenamento, ou firewalls/segurança da rede, ou planta/prédio físico do datacenter.
+
+Exemplo: Precisaria lidar com o sistema operacional, instalar o banco de dados nele, configurar tudo e depois liberar o acesso aos desenvolvedores.
+
+Cria uma infraestrutura de TI de pagamentos conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+
+### PaaS - Plataforma como serviço
+
+- Gestão intermediária.
+- Focado no desenvolvimento de aplicativos.
+- O gerenciamento de plataforma e sistema operacional é realizado pelo provedor de nuvem.
+
+Se preocupa com ferramentas de desenvolvimento, análise de negócios de gerenciamento de banco de dados
+
+Exemplo: A máquina/servidor que está não é preocupação de quem escolhe por um Paas. 
+
+Se preocupa com a aplicação, configurar para colocar os dados por exemplo em um banco de dados, poder criar um ambiente de teste, de produção, de aplicativos, etc. 
+
+O sistema operacional não é mais responsabilidade de quem adquire um PaaS, mas sim a configuração das plataformas.
+
+Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+
+### SaaS - Software como serviço
+
+- Menor gestão.
+- Modelo de preço de pagamento conforme o uso.
+- Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
+Se preocupa com aplicativos/ apps hospedados.
+
+A aplicação já existe, está pronta e o que determina a visibilidade e funcionalidade é o nível de licenciamento que o cliente irá escolher no momento que contratar um SaaS.
+
+Os usuários se conectam e usam aplicativos com base em nuvem pela internet: por exemplo, Microsoft Office 365, email e calendários.
+
+---
+
+### Modelo de Responsabilidade Compartilhada
+
+O nível de responsabilidade de quem contrata um IaaS é maior do que um PaaS, que é maior do que um SaaS.
+
+![image.png]([https://prod-files-secure.s3.us-west-2.amazonaws.com/810cc429-c318-4d88-af15-3d4893a1dc72/adf09198-bec3-4146-83ba-0f049da09108/image.png](https://miro.medium.com/v2/resize:fit:1400/1*oRAYfBNmckJdm_4JYf-Zog.png))
