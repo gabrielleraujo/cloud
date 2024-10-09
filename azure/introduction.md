@@ -171,8 +171,6 @@ A aplicação já existe, está pronta e o que determina a visibilidade e funcio
 
 Os usuários se conectam e usam aplicativos com base em nuvem pela internet: por exemplo, Microsoft Office 365, email e calendários.
 
----
-
 ### Modelo de Responsabilidade Compartilhada
 
 O nível de responsabilidade de quem contrata um IaaS é maior do que um PaaS, que é maior do que um SaaS.
